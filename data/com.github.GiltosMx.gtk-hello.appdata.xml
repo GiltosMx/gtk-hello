@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Adrián Toscano <adriantoscanop@gmail.com> -->
+<component type="desktop">
+  <id>com.github.GiltosMx.gtk-hello</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello World Again</name>
+  <summary>World's best hello!</summary>
+  <description>
+    <p>This is a great app for displaying a Hello world message like never before!</p>
+  </description>
+</component>
